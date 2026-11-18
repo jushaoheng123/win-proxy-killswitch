@@ -1,0 +1,5 @@
+*.backup_*.db
+*.bak
+__pycache__/
+*.log
+.DS_Store
